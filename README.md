@@ -157,5 +157,6 @@ cobertura por habitante.
 
 ✔ Aberto para melhorias e novas versões
 
-📬 Contato
+## 📬 Contato
 
+🔗 [LinkedIn](https://www.linkedin.com/in/andre-casagrande-4a838419b/)
